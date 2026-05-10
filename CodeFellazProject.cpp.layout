@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="DiscountedProduct.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="907" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="10" />
+			<Collapse line="14" />
+			<Collapse line="18" />
+			<Collapse line="22" />
+		</Folding>
+	</File>
+	<File name="Order.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="344" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="product.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="20" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="25" />
+		</Folding>
+	</File>
+	<File name="TaxableProduct.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="723" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="8" />
+			<Collapse line="12" />
+		</Folding>
+	</File>
+	<File name="Inventory.cpp" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4585" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="14" />
+			<Collapse line="29" />
+			<Collapse line="38" />
+			<Collapse line="59" />
+			<Collapse line="76" />
+			<Collapse line="96" />
+			<Collapse line="221" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21057" topLine="33" />
+		</Cursor>
+		<Folding>
+			<Collapse line="19" />
+			<Collapse line="35" />
+			<Collapse line="45" />
+			<Collapse line="65" />
+			<Collapse line="93" />
+			<Collapse line="273" />
+			<Collapse line="305" />
+			<Collapse line="374" />
+			<Collapse line="379" />
+			<Collapse line="394" />
+			<Collapse line="408" />
+			<Collapse line="415" />
+			<Collapse line="420" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

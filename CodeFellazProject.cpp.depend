@@ -1,0 +1,1111 @@
+# depslib dependency file v1.0
+1771580596 source:c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject.cpp\main.cpp
+	<iostream>
+
+1771580638 source:c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject.cpp\product.cpp
+	<iostream>
+
+1771579085 source:c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject.cpp\threadexample.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<vector>
+	<map>
+
+1771578714 source:c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject.cpp\discountedproduct.cpp
+	<iostream>
+
+1771581929 source:c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject.cpp\order.cpp
+	<iostream>
+
+1773402451 source:c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject\order.cpp
+	"Order.h"
+	<iostream>
+	<string>
+
+1773402451 source:c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject\discountedproduct.cpp
+	"DiscountedProduct.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1773402451 c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject\discountedproduct.h
+	"Product.h"
+	<string>
+
+1773402451 c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject\product.h
+	<string>
+
+1773408100 source:c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject\main.cpp
+	"Inventory.h"
+	"TaxableProduct.h"
+	"DiscountedProduct.h"
+	"Order.h"
+	"Product.h"
+	<iostream>
+	<string>
+	<thread>
+	<vector>
+	<chrono>
+
+1773402451 c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject\inventory.h
+	"Product.h"
+	"Order.h"
+	<iostream>
+	<map>
+	<vector>
+	<memory>
+
+1773402451 c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject\order.h
+	<string>
+
+1773402451 c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject\taxableproduct.h
+	"Product.h"
+	<string>
+
+1773402451 source:c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject\taxableproduct.cpp
+	"TaxableProduct.h"
+	<iostream>
+	<iomanip>
+
+1773408132 source:c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject\inventory.cpp
+	"Inventory.h"
+	"Product.h"
+	<iostream>
+	<map>
+	<memory>
+	<mutex>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<thread>
+	<chrono>
+
+1773407387 source:c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject\product.cpp
+	"Product.h"
+	<iostream>
+	<iomanip>
+
+1773400422 source:c:\users\student\downloads\codefellazprojectnew\codefellazproject\discountedproduct.cpp
+	"DiscountedProduct.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1773394960 c:\users\student\downloads\codefellazprojectnew\codefellazproject\discountedproduct.h
+	"Product.h"
+	<string>
+
+1773394960 c:\users\student\downloads\codefellazprojectnew\codefellazproject\product.h
+	<string>
+
+1773400599 source:c:\users\student\downloads\codefellazprojectnew\codefellazproject\inventory.cpp
+	"Inventory.h"
+	"Product.h"
+	<iostream>
+	<map>
+	<memory>
+	<mutex>
+	<algorithm>
+	<vector>
+	<iomanip>
+
+1773394960 c:\users\student\downloads\codefellazprojectnew\codefellazproject\inventory.h
+	"Product.h"
+	"Order.h"
+	<iostream>
+	<map>
+	<vector>
+	<memory>
+
+1773394960 c:\users\student\downloads\codefellazprojectnew\codefellazproject\order.h
+	<string>
+
+1773400199 source:c:\users\student\downloads\codefellazprojectnew\codefellazproject\main.cpp
+	"Inventory.h"
+	"TaxableProduct.h"
+	"DiscountedProduct.h"
+	"Product.h"
+	<iostream>
+	<string>
+
+1773394960 c:\users\student\downloads\codefellazprojectnew\codefellazproject\taxableproduct.h
+	"Product.h"
+	<string>
+
+1773394960 source:c:\users\student\downloads\codefellazprojectnew\codefellazproject\order.cpp
+	"Order.h"
+	<iostream>
+	<string>
+
+1773397664 source:c:\users\student\downloads\codefellazprojectnew\codefellazproject\product.cpp
+	"Product.h"
+	<iostream>
+
+1773400666 source:c:\users\student\downloads\codefellazprojectnew\codefellazproject\taxableproduct.cpp
+	"TaxableProduct.h"
+	<iostream>
+	<iomanip>
+
+1773411640 source:c:\users\student\downloads\codefellazproject\discountedproduct.cpp
+	"DiscountedProduct.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1773411640 c:\users\student\downloads\codefellazproject\discountedproduct.h
+	"Product.h"
+	<string>
+
+1773411640 c:\users\student\downloads\codefellazproject\product.h
+	<string>
+
+1773415681 source:c:\users\student\downloads\codefellazproject\inventory.cpp
+	"Inventory.h"
+	"Product.h"
+	<iostream>
+	<map>
+	<memory>
+	<mutex>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<thread>
+	<chrono>
+
+1773416371 c:\users\student\downloads\codefellazproject\inventory.h
+	"Product.h"
+	"Order.h"
+	<iostream>
+	<map>
+	<vector>
+	<mutex>
+	<memory>
+
+1773411640 c:\users\student\downloads\codefellazproject\order.h
+	<string>
+
+1773413025 source:c:\users\student\downloads\codefellazproject\main.cpp
+	"Inventory.h"
+	"TaxableProduct.h"
+	"DiscountedProduct.h"
+	"Order.h"
+	"Product.h"
+	<iostream>
+	<string>
+	<thread>
+	<vector>
+	<chrono>
+
+1773411640 c:\users\student\downloads\codefellazproject\taxableproduct.h
+	"Product.h"
+	<string>
+
+1773411640 source:c:\users\student\downloads\codefellazproject\order.cpp
+	"Order.h"
+	<iostream>
+	<string>
+
+1773411640 source:c:\users\student\downloads\codefellazproject\product.cpp
+	"Product.h"
+	<iostream>
+	<iomanip>
+
+1773411640 source:c:\users\student\downloads\codefellazproject\taxableproduct.cpp
+	"TaxableProduct.h"
+	<iostream>
+	<iomanip>
+
+1777710486 source:c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject\codefellazproject\discountedproduct.cpp
+	"DiscountedProduct.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1777710486 c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject\codefellazproject\discountedproduct.h
+	"Product.h"
+	<string>
+
+1777710486 c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject\codefellazproject\product.h
+	<string>
+
+1777717947 source:c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject\codefellazproject\inventory.cpp
+	"Inventory.h"
+	"Product.h"
+	<iostream>
+	<map>
+	<memory>
+	<mutex>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<thread>
+
+1777710486 c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject\codefellazproject\inventory.h
+	"Product.h"
+	"Order.h"
+	<iostream>
+	<map>
+	<vector>
+	<mutex>
+	<memory>
+
+1777710486 c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject\codefellazproject\order.h
+	<string>
+
+1777719190 source:c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject\codefellazproject\main.cpp
+	"Inventory.h"
+	"TaxableProduct.h"
+	"DiscountedProduct.h"
+	"Order.h"
+	"Product.h"
+	<iostream>
+	<string>
+	<thread>
+	<vector>
+	<random>
+	<sstream>
+	<cctype>
+
+1777710486 c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject\codefellazproject\taxableproduct.h
+	"Product.h"
+	<string>
+
+1777710486 source:c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject\codefellazproject\order.cpp
+	"Order.h"
+	<iostream>
+	<string>
+
+1777710486 source:c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject\codefellazproject\product.cpp
+	"Product.h"
+	<iostream>
+	<iomanip>
+
+1777710486 source:c:\users\dell\onedrive - university of kwazulu-natal\desktop\codefellazproject\codefellazproject\taxableproduct.cpp
+	"TaxableProduct.h"
+	<iostream>
+	<iomanip>
+
+1774122228 source:c:\users\student\downloads\codefellazprojectlatest (2)\codefellazproject\codefellazproject\discountedproduct.cpp
+	"DiscountedProduct.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1774122471 c:\users\student\downloads\codefellazprojectlatest (2)\codefellazproject\codefellazproject\discountedproduct.h
+	"Product.h"
+	<string>
+
+1774122457 c:\users\student\downloads\codefellazprojectlatest (2)\codefellazproject\codefellazproject\product.h
+	<string>
+
+1774123181 source:c:\users\student\downloads\codefellazprojectlatest (2)\codefellazproject\codefellazproject\inventory.cpp
+	"Inventory.h"
+	"Product.h"
+	<iostream>
+	<map>
+	<memory>
+	<mutex>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<thread>
+	<chrono>
+
+1774122452 c:\users\student\downloads\codefellazprojectlatest (2)\codefellazproject\codefellazproject\inventory.h
+	"Product.h"
+	"Order.h"
+	<iostream>
+	<map>
+	<vector>
+	<mutex>
+	<memory>
+
+1774122410 c:\users\student\downloads\codefellazprojectlatest (2)\codefellazproject\codefellazproject\order.h
+	<string>
+
+1774122228 source:c:\users\student\downloads\codefellazprojectlatest (2)\codefellazproject\codefellazproject\main.cpp
+	"Inventory.h"
+	"TaxableProduct.h"
+	"DiscountedProduct.h"
+	"Order.h"
+	"Product.h"
+	<iostream>
+	<string>
+	<thread>
+	<vector>
+
+1774122513 c:\users\student\downloads\codefellazprojectlatest (2)\codefellazproject\codefellazproject\taxableproduct.h
+	"Product.h"
+	<string>
+
+1774122228 source:c:\users\student\downloads\codefellazprojectlatest (2)\codefellazproject\codefellazproject\order.cpp
+	"Order.h"
+	<iostream>
+	<string>
+
+1774122228 source:c:\users\student\downloads\codefellazprojectlatest (2)\codefellazproject\codefellazproject\product.cpp
+	"Product.h"
+	<iostream>
+	<iomanip>
+
+1774122783 source:c:\users\student\downloads\codefellazprojectlatest (2)\codefellazproject\codefellazproject\taxableproduct.cpp
+	"TaxableProduct.h"
+	<iostream>
+	<iomanip>
+
+1774694044 source:c:\users\dell\downloads\codefellazprojectlatest\codefellazprojectlatest (2)\codefellazproject\codefellazproject\discountedproduct.cpp
+	"DiscountedProduct.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1774694044 c:\users\dell\downloads\codefellazprojectlatest\codefellazprojectlatest (2)\codefellazproject\codefellazproject\discountedproduct.h
+	"Product.h"
+	<string>
+
+1774694044 c:\users\dell\downloads\codefellazprojectlatest\codefellazprojectlatest (2)\codefellazproject\codefellazproject\product.h
+	<string>
+
+1776672756 source:c:\users\dell\downloads\codefellazprojectlatest\codefellazprojectlatest (2)\codefellazproject\codefellazproject\inventory.cpp
+	"Inventory.h"
+	"Product.h"
+	<iostream>
+	<map>
+	<memory>
+	<mutex>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<thread>
+	<chrono>
+
+1774702983 c:\users\dell\downloads\codefellazprojectlatest\codefellazprojectlatest (2)\codefellazproject\codefellazproject\inventory.h
+	"Product.h"
+	"Order.h"
+	<iostream>
+	<map>
+	<vector>
+	<mutex>
+	<memory>
+
+1774694044 c:\users\dell\downloads\codefellazprojectlatest\codefellazprojectlatest (2)\codefellazproject\codefellazproject\order.h
+	<string>
+
+1776679356 source:c:\users\dell\downloads\codefellazprojectlatest\codefellazprojectlatest (2)\codefellazproject\codefellazproject\main.cpp
+	"Inventory.h"
+	"TaxableProduct.h"
+	"DiscountedProduct.h"
+	"Order.h"
+	"Product.h"
+	<iostream>
+	<string>
+	<thread>
+	<vector>
+	<random>
+	<sstream>
+	<cctype>
+
+1774694044 c:\users\dell\downloads\codefellazprojectlatest\codefellazprojectlatest (2)\codefellazproject\codefellazproject\taxableproduct.h
+	"Product.h"
+	<string>
+
+1774694044 source:c:\users\dell\downloads\codefellazprojectlatest\codefellazprojectlatest (2)\codefellazproject\codefellazproject\order.cpp
+	"Order.h"
+	<iostream>
+	<string>
+
+1774694044 source:c:\users\dell\downloads\codefellazprojectlatest\codefellazprojectlatest (2)\codefellazproject\codefellazproject\product.cpp
+	"Product.h"
+	<iostream>
+	<iomanip>
+
+1774694044 source:c:\users\dell\downloads\codefellazprojectlatest\codefellazprojectlatest (2)\codefellazproject\codefellazproject\taxableproduct.cpp
+	"TaxableProduct.h"
+	<iostream>
+	<iomanip>
+
+1777449874 source:c:\users\siyanda zondi\downloads\codefellazprojectlatest (1)\codefellazproject\discountedproduct.cpp
+	"DiscountedProduct.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1777449874 c:\users\siyanda zondi\downloads\codefellazprojectlatest (1)\codefellazproject\discountedproduct.h
+	"Product.h"
+	<string>
+
+1777449874 c:\users\siyanda zondi\downloads\codefellazprojectlatest (1)\codefellazproject\product.h
+	<string>
+
+1777454069 source:c:\users\siyanda zondi\downloads\codefellazprojectlatest (1)\codefellazproject\inventory.cpp
+	"Inventory.h"
+	"Product.h"
+	<iostream>
+	<map>
+	<memory>
+	<mutex>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<thread>
+	<chrono>
+
+1777449874 c:\users\siyanda zondi\downloads\codefellazprojectlatest (1)\codefellazproject\inventory.h
+	"Product.h"
+	"Order.h"
+	<iostream>
+	<map>
+	<vector>
+	<mutex>
+	<memory>
+
+1777449874 c:\users\siyanda zondi\downloads\codefellazprojectlatest (1)\codefellazproject\order.h
+	<string>
+
+1777449874 source:c:\users\siyanda zondi\downloads\codefellazprojectlatest (1)\codefellazproject\order.cpp
+	"Order.h"
+	<iostream>
+	<string>
+
+1777449874 source:c:\users\siyanda zondi\downloads\codefellazprojectlatest (1)\codefellazproject\product.cpp
+	"Product.h"
+	<iostream>
+	<iomanip>
+
+1777449874 source:c:\users\siyanda zondi\downloads\codefellazprojectlatest (1)\codefellazproject\taxableproduct.cpp
+	"TaxableProduct.h"
+	<iostream>
+	<iomanip>
+
+1777449874 c:\users\siyanda zondi\downloads\codefellazprojectlatest (1)\codefellazproject\taxableproduct.h
+	"Product.h"
+	<string>
+
+1777450099 source:c:\users\siyanda zondi\downloads\codefellazprojectlatest (1)\codefellazproject\main.cpp
+	"Inventory.h"
+	"TaxableProduct.h"
+	"DiscountedProduct.h"
+	"Order.h"
+	"Product.h"
+	<iostream>
+	<string>
+	<thread>
+	<vector>
+	<random>
+	<sstream>
+	<cctype>
+
+1777456126 source:c:\users\dell\downloads\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\discountedproduct.cpp
+	"DiscountedProduct.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1777456126 c:\users\dell\downloads\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\discountedproduct.h
+	"Product.h"
+	<string>
+
+1777456127 c:\users\dell\downloads\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\product.h
+	<string>
+
+1777456126 source:c:\users\dell\downloads\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\inventory.cpp
+	"Inventory.h"
+	"Product.h"
+	<iostream>
+	<map>
+	<memory>
+	<mutex>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<thread>
+	<chrono>
+
+1777456126 c:\users\dell\downloads\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\inventory.h
+	"Product.h"
+	"Order.h"
+	<iostream>
+	<map>
+	<vector>
+	<mutex>
+	<memory>
+
+1777456127 c:\users\dell\downloads\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\order.h
+	<string>
+
+1777457283 source:c:\users\dell\downloads\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\main.cpp
+	"Inventory.h"
+	"TaxableProduct.h"
+	"DiscountedProduct.h"
+	"Order.h"
+	"Product.h"
+	<iostream>
+	<string>
+	<thread>
+	<vector>
+	<random>
+	<sstream>
+	<cctype>
+
+1777456127 c:\users\dell\downloads\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\taxableproduct.h
+	"Product.h"
+	<string>
+
+1777456126 source:c:\users\dell\downloads\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\order.cpp
+	"Order.h"
+	<iostream>
+	<string>
+
+1777456127 source:c:\users\dell\downloads\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\product.cpp
+	"Product.h"
+	<iostream>
+	<iomanip>
+
+1777456127 source:c:\users\dell\downloads\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\taxableproduct.cpp
+	"TaxableProduct.h"
+	<iostream>
+	<iomanip>
+
+1777541982 source:c:\users\siyanda zondi\downloads\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\discountedproduct.cpp
+	"DiscountedProduct.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1777541982 c:\users\siyanda zondi\downloads\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\discountedproduct.h
+	"Product.h"
+	<string>
+
+1777541982 c:\users\siyanda zondi\downloads\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\product.h
+	<string>
+
+1777541982 source:c:\users\siyanda zondi\downloads\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\main.cpp
+	"Inventory.h"
+	"TaxableProduct.h"
+	"DiscountedProduct.h"
+	"Order.h"
+	"Product.h"
+	<iostream>
+	<string>
+	<thread>
+	<vector>
+	<random>
+	<sstream>
+	<cctype>
+
+1777541982 c:\users\siyanda zondi\downloads\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\inventory.h
+	"Product.h"
+	"Order.h"
+	<iostream>
+	<map>
+	<vector>
+	<mutex>
+	<memory>
+
+1777541982 c:\users\siyanda zondi\downloads\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\order.h
+	<string>
+
+1777541982 c:\users\siyanda zondi\downloads\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\taxableproduct.h
+	"Product.h"
+	<string>
+
+1777541982 source:c:\users\siyanda zondi\downloads\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\order.cpp
+	"Order.h"
+	<iostream>
+	<string>
+
+1777541982 source:c:\users\siyanda zondi\downloads\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\product.cpp
+	"Product.h"
+	<iostream>
+	<iomanip>
+
+1777541982 source:c:\users\siyanda zondi\downloads\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\taxableproduct.cpp
+	"TaxableProduct.h"
+	<iostream>
+	<iomanip>
+
+1777542101 source:c:\users\siyanda zondi\downloads\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\inventory.cpp
+	"Inventory.h"
+	"Product.h"
+	<iostream>
+	<map>
+	<memory>
+	<mutex>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<thread>
+
+1777710486 source:c:\users\dell\onedrive - university of kwazulu-natal\pictures\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\discountedproduct.cpp
+	"DiscountedProduct.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1777710486 c:\users\dell\onedrive - university of kwazulu-natal\pictures\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\discountedproduct.h
+	"Product.h"
+	<string>
+
+1777710486 c:\users\dell\onedrive - university of kwazulu-natal\pictures\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\product.h
+	<string>
+
+1777710486 source:c:\users\dell\onedrive - university of kwazulu-natal\pictures\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\inventory.cpp
+	"Inventory.h"
+	"Product.h"
+	<iostream>
+	<map>
+	<memory>
+	<mutex>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<thread>
+
+1777710486 c:\users\dell\onedrive - university of kwazulu-natal\pictures\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\inventory.h
+	"Product.h"
+	"Order.h"
+	<iostream>
+	<map>
+	<vector>
+	<mutex>
+	<memory>
+
+1777710486 c:\users\dell\onedrive - university of kwazulu-natal\pictures\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\order.h
+	<string>
+
+1777710486 source:c:\users\dell\onedrive - university of kwazulu-natal\pictures\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\order.cpp
+	"Order.h"
+	<iostream>
+	<string>
+
+1777710486 source:c:\users\dell\onedrive - university of kwazulu-natal\pictures\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\product.cpp
+	"Product.h"
+	<iostream>
+	<iomanip>
+
+1777710486 source:c:\users\dell\onedrive - university of kwazulu-natal\pictures\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\taxableproduct.cpp
+	"TaxableProduct.h"
+	<iostream>
+	<iomanip>
+
+1777710486 c:\users\dell\onedrive - university of kwazulu-natal\pictures\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3) (1)\codefellazprojectlatest (3)\codefellazprojectlatest (1)\codefellazproject\taxableproduct.h
+	"Product.h"
+	<string>
+
+1777751356 source:c:\users\siyanda zondi\downloads\codefellazproject (1)\codefellazproject\discountedproduct.cpp
+	"DiscountedProduct.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1777751356 c:\users\siyanda zondi\downloads\codefellazproject (1)\codefellazproject\discountedproduct.h
+	"Product.h"
+	<string>
+
+1777751356 c:\users\siyanda zondi\downloads\codefellazproject (1)\codefellazproject\product.h
+	<string>
+
+1777822960 source:c:\users\siyanda zondi\downloads\codefellazproject (1)\codefellazproject\inventory.cpp
+	"Inventory.h"
+	"Product.h"
+	<iostream>
+	<map>
+	<memory>
+	<mutex>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<thread>
+
+1777751356 c:\users\siyanda zondi\downloads\codefellazproject (1)\codefellazproject\inventory.h
+	"Product.h"
+	"Order.h"
+	<iostream>
+	<map>
+	<vector>
+	<mutex>
+	<memory>
+
+1777751356 c:\users\siyanda zondi\downloads\codefellazproject (1)\codefellazproject\order.h
+	<string>
+
+1777805878 source:c:\users\siyanda zondi\downloads\codefellazproject (1)\codefellazproject\main.cpp
+	"Inventory.h"
+	"TaxableProduct.h"
+	"DiscountedProduct.h"
+	"Order.h"
+	"Product.h"
+	<iostream>
+	<string>
+	<thread>
+	<vector>
+	<random>
+	<sstream>
+	<cctype>
+
+1777751356 c:\users\siyanda zondi\downloads\codefellazproject (1)\codefellazproject\taxableproduct.h
+	"Product.h"
+	<string>
+
+1777751356 source:c:\users\siyanda zondi\downloads\codefellazproject (1)\codefellazproject\order.cpp
+	"Order.h"
+	<iostream>
+	<string>
+
+1777751356 source:c:\users\siyanda zondi\downloads\codefellazproject (1)\codefellazproject\product.cpp
+	"Product.h"
+	<iostream>
+	<iomanip>
+
+1777823067 source:c:\users\siyanda zondi\downloads\codefellazproject (1)\codefellazproject\taxableproduct.cpp
+	"TaxableProduct.h"
+	<iostream>
+	<iomanip>
+
+1777747257 source:c:\users\224031794\downloads\codefellazproject latest(2)\codefellazproject (1)\codefellazproject\discountedproduct.cpp
+	"DiscountedProduct.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1777747257 c:\users\224031794\downloads\codefellazproject latest(2)\codefellazproject (1)\codefellazproject\discountedproduct.h
+	"Product.h"
+	<string>
+
+1777747257 c:\users\224031794\downloads\codefellazproject latest(2)\codefellazproject (1)\codefellazproject\product.h
+	<string>
+
+1777747257 source:c:\users\224031794\downloads\codefellazproject latest(2)\codefellazproject (1)\codefellazproject\inventory.cpp
+	"Inventory.h"
+	"Product.h"
+	<iostream>
+	<map>
+	<memory>
+	<mutex>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<thread>
+
+1777747257 c:\users\224031794\downloads\codefellazproject latest(2)\codefellazproject (1)\codefellazproject\inventory.h
+	"Product.h"
+	"Order.h"
+	<iostream>
+	<map>
+	<vector>
+	<mutex>
+	<memory>
+
+1777747257 c:\users\224031794\downloads\codefellazproject latest(2)\codefellazproject (1)\codefellazproject\order.h
+	<string>
+
+1777747257 source:c:\users\224031794\downloads\codefellazproject latest(2)\codefellazproject (1)\codefellazproject\main.cpp
+	"Inventory.h"
+	"TaxableProduct.h"
+	"DiscountedProduct.h"
+	"Order.h"
+	"Product.h"
+	<iostream>
+	<string>
+	<thread>
+	<vector>
+	<random>
+	<sstream>
+	<cctype>
+
+1777747257 c:\users\224031794\downloads\codefellazproject latest(2)\codefellazproject (1)\codefellazproject\taxableproduct.h
+	"Product.h"
+	<string>
+
+1777747257 source:c:\users\224031794\downloads\codefellazproject latest(2)\codefellazproject (1)\codefellazproject\order.cpp
+	"Order.h"
+	<iostream>
+	<string>
+
+1777747257 source:c:\users\224031794\downloads\codefellazproject latest(2)\codefellazproject (1)\codefellazproject\product.cpp
+	"Product.h"
+	<iostream>
+	<iomanip>
+
+1777747257 source:c:\users\224031794\downloads\codefellazproject latest(2)\codefellazproject (1)\codefellazproject\taxableproduct.cpp
+	"TaxableProduct.h"
+	<iostream>
+	<iomanip>
+
+1777828243 source:c:\users\student\downloads\codefellazproject (1)\codefellazproject\discountedproduct.cpp
+	"DiscountedProduct.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1777828243 c:\users\student\downloads\codefellazproject (1)\codefellazproject\discountedproduct.h
+	"Product.h"
+	<string>
+
+1777828243 c:\users\student\downloads\codefellazproject (1)\codefellazproject\product.h
+	<string>
+
+1777828519 source:c:\users\student\downloads\codefellazproject (1)\codefellazproject\inventory.cpp
+	"Inventory.h"
+	"Product.h"
+	<iostream>
+	<map>
+	<memory>
+	<mutex>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<thread>
+
+1777828380 c:\users\student\downloads\codefellazproject (1)\codefellazproject\inventory.h
+	"Product.h"
+	"Order.h"
+	<iostream>
+	<map>
+	<vector>
+	<mutex>
+	<memory>
+
+1777828454 c:\users\student\downloads\codefellazproject (1)\codefellazproject\order.h
+	<string>
+	<vector>
+
+1777828559 source:c:\users\student\downloads\codefellazproject (1)\codefellazproject\main.cpp
+	"Inventory.h"
+	"TaxableProduct.h"
+	"DiscountedProduct.h"
+	"Order.h"
+	"Product.h"
+	<iostream>
+	<string>
+	<thread>
+	<vector>
+	<random>
+	<sstream>
+	<cctype>
+
+1777828243 c:\users\student\downloads\codefellazproject (1)\codefellazproject\taxableproduct.h
+	"Product.h"
+	<string>
+
+1777828504 source:c:\users\student\downloads\codefellazproject (1)\codefellazproject\order.cpp
+	"Order.h"
+
+1777828243 source:c:\users\student\downloads\codefellazproject (1)\codefellazproject\product.cpp
+	"Product.h"
+	<iostream>
+	<iomanip>
+
+1777828243 source:c:\users\student\downloads\codefellazproject (1)\codefellazproject\taxableproduct.cpp
+	"TaxableProduct.h"
+	<iostream>
+	<iomanip>
+
+1777833574 source:c:\users\siyanda zondi\downloads\codefellazprojectlatest (2)\codefellazproject (1)\codefellazproject\discountedproduct.cpp
+	"DiscountedProduct.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1777830402 c:\users\siyanda zondi\downloads\codefellazprojectlatest (2)\codefellazproject (1)\codefellazproject\discountedproduct.h
+	"Product.h"
+	<string>
+
+1777830402 c:\users\siyanda zondi\downloads\codefellazprojectlatest (2)\codefellazproject (1)\codefellazproject\product.h
+	<string>
+
+1777835394 source:c:\users\siyanda zondi\downloads\codefellazprojectlatest (2)\codefellazproject (1)\codefellazproject\inventory.cpp
+	"Inventory.h"
+	"Product.h"
+	<iostream>
+	<map>
+	<memory>
+	<mutex>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<thread>
+
+1777830402 c:\users\siyanda zondi\downloads\codefellazprojectlatest (2)\codefellazproject (1)\codefellazproject\inventory.h
+	"Product.h"
+	"Order.h"
+	<iostream>
+	<map>
+	<vector>
+	<mutex>
+	<memory>
+
+1777836288 c:\users\siyanda zondi\downloads\codefellazprojectlatest (2)\codefellazproject (1)\codefellazproject\order.h
+	<string>
+	<vector>
+
+1777836176 source:c:\users\siyanda zondi\downloads\codefellazprojectlatest (2)\codefellazproject (1)\codefellazproject\main.cpp
+	"Inventory.h"
+	"TaxableProduct.h"
+	"DiscountedProduct.h"
+	"Order.h"
+	"Product.h"
+	<iostream>
+	<string>
+	<thread>
+	<vector>
+	<random>
+	<sstream>
+	<cctype>
+
+1777830402 c:\users\siyanda zondi\downloads\codefellazprojectlatest (2)\codefellazproject (1)\codefellazproject\taxableproduct.h
+	"Product.h"
+	<string>
+
+1777833574 source:c:\users\siyanda zondi\downloads\codefellazprojectlatest (2)\codefellazproject (1)\codefellazproject\order.cpp
+	"Order.h"
+
+1777830402 source:c:\users\siyanda zondi\downloads\codefellazprojectlatest (2)\codefellazproject (1)\codefellazproject\product.cpp
+	"Product.h"
+	<iostream>
+	<iomanip>
+
+1777830402 source:c:\users\siyanda zondi\downloads\codefellazprojectlatest (2)\codefellazproject (1)\codefellazproject\taxableproduct.cpp
+	"TaxableProduct.h"
+	<iostream>
+	<iomanip>
+
+1777837486 source:c:\users\224031794\downloads\codefellazprojectlatest2143\codefellazprojectlatest (2)\discountedproduct.cpp
+	"DiscountedProduct.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1777837486 c:\users\224031794\downloads\codefellazprojectlatest2143\codefellazprojectlatest (2)\discountedproduct.h
+	"Product.h"
+	<string>
+
+1777837486 c:\users\224031794\downloads\codefellazprojectlatest2143\codefellazprojectlatest (2)\product.h
+	<string>
+
+1777837486 source:c:\users\224031794\downloads\codefellazprojectlatest2143\codefellazprojectlatest (2)\inventory.cpp
+	"Inventory.h"
+	"Product.h"
+	<iostream>
+	<map>
+	<memory>
+	<mutex>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<thread>
+
+1777837486 c:\users\224031794\downloads\codefellazprojectlatest2143\codefellazprojectlatest (2)\inventory.h
+	"Product.h"
+	"Order.h"
+	<iostream>
+	<map>
+	<vector>
+	<mutex>
+	<memory>
+
+1777837486 c:\users\224031794\downloads\codefellazprojectlatest2143\codefellazprojectlatest (2)\order.h
+	<string>
+	<vector>
+
+1777837486 source:c:\users\224031794\downloads\codefellazprojectlatest2143\codefellazprojectlatest (2)\main.cpp
+	"Inventory.h"
+	"TaxableProduct.h"
+	"DiscountedProduct.h"
+	"Order.h"
+	"Product.h"
+	<iostream>
+	<string>
+	<thread>
+	<vector>
+	<random>
+	<sstream>
+	<cctype>
+
+1777837486 c:\users\224031794\downloads\codefellazprojectlatest2143\codefellazprojectlatest (2)\taxableproduct.h
+	"Product.h"
+	<string>
+
+1777837486 source:c:\users\224031794\downloads\codefellazprojectlatest2143\codefellazprojectlatest (2)\order.cpp
+	"Order.h"
+
+1777837486 source:c:\users\224031794\downloads\codefellazprojectlatest2143\codefellazprojectlatest (2)\product.cpp
+	"Product.h"
+	<iostream>
+	<iomanip>
+
+1777837486 source:c:\users\224031794\downloads\codefellazprojectlatest2143\codefellazprojectlatest (2)\taxableproduct.cpp
+	"TaxableProduct.h"
+	<iostream>
+	<iomanip>
+
+1778408326 source:c:\users\dell\downloads\codefellazproject (1)\codefellazproject\discountedproduct.cpp
+	"DiscountedProduct.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1778408326 c:\users\dell\downloads\codefellazproject (1)\codefellazproject\discountedproduct.h
+	"Product.h"
+	<string>
+
+1778408326 c:\users\dell\downloads\codefellazproject (1)\codefellazproject\product.h
+	<string>
+
+1778408326 source:c:\users\dell\downloads\codefellazproject (1)\codefellazproject\inventory.cpp
+	"Inventory.h"
+	"Product.h"
+	<iostream>
+	<map>
+	<memory>
+	<mutex>
+	<algorithm>
+	<vector>
+	<iomanip>
+	<thread>
+
+1778408326 c:\users\dell\downloads\codefellazproject (1)\codefellazproject\inventory.h
+	"Product.h"
+	"Order.h"
+	<iostream>
+	<map>
+	<vector>
+	<mutex>
+	<memory>
+
+1778408326 c:\users\dell\downloads\codefellazproject (1)\codefellazproject\order.h
+	<string>
+	<vector>
+
+1778408326 source:c:\users\dell\downloads\codefellazproject (1)\codefellazproject\main.cpp
+	"Inventory.h"
+	"TaxableProduct.h"
+	"DiscountedProduct.h"
+	"Order.h"
+	"Product.h"
+	<iostream>
+	<string>
+	<thread>
+	<vector>
+	<random>
+	<sstream>
+	<cctype>
+
+1778408326 c:\users\dell\downloads\codefellazproject (1)\codefellazproject\taxableproduct.h
+	"Product.h"
+	<string>
+
+1778408326 source:c:\users\dell\downloads\codefellazproject (1)\codefellazproject\order.cpp
+	"Order.h"
+
+1778408326 source:c:\users\dell\downloads\codefellazproject (1)\codefellazproject\product.cpp
+	"Product.h"
+	<iostream>
+	<iomanip>
+
+1778408326 source:c:\users\dell\downloads\codefellazproject (1)\codefellazproject\taxableproduct.cpp
+	"TaxableProduct.h"
+	<iostream>
+	<iomanip>
+
